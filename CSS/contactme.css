@@ -1,0 +1,16 @@
+.phone {
+    color: hsl(346, 100%, 42%);
+}
+
+.mail {
+    color: hsl(187, 97%, 29%);
+}
+
+.gps {
+    color: hsl(17, 100%, 54%);
+}
+
+a {
+    text-decoration: none;
+    display: none;
+}
